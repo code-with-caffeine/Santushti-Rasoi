@@ -3,12 +3,14 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "next dev",
+    "dev": "next dev --turbo",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "analyze": "next experimental-analyze"
   },
   "dependencies": {
+    "@next/bundle-analyzer": "^16.2.3",
     "next": "16.2.3",
     "react": "19.2.4",
     "react-dom": "19.2.4"

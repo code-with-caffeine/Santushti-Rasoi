@@ -34,6 +34,7 @@
 // }
 import { Cormorant_Garamond, Jost } from 'next/font/google';
 import './styles/globals.css';
+import './styles/responsive.css'
 
 const cormorant = Cormorant_Garamond({
   subsets: ['latin'],
