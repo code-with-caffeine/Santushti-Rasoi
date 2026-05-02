@@ -64,7 +64,7 @@ export default function Footer() {
         </div>
 
         <div className="footer-bottom">
-          <span>© 2024 Santushti Rasoi. All rights reserved. FSSAI Lic. 10019022007790</span>
+          <span>© 2014 Santushti Rasoi. All rights reserved. FSSAI Lic. 21119253000125</span>
           <div style={{ display: 'flex', gap: '1.5rem', flexWrap: 'wrap' }}>
             <a href="#">Privacy Policy</a>
             <a href="#">Terms of Service</a>

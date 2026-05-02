@@ -1,8 +1,8 @@
 import FadeIn from './FadeIn';
 
 const KARIGARS = [
-  { name: 'Ramkhelawan Ji', role: 'Head Karigar', spec: 'Kaju Katli & Barfi Specialist', exp: '32 years', cls: 'ka-1', icon: '👨‍🍳' },
-  { name: 'Sunita Devi', role: 'Halwa Specialist', spec: 'Gajar & Moong Halwa Expert', exp: '24 years', cls: 'ka-2', icon: '👩‍🍳' },
+  { name: 'Sheela Kumari', role: 'Head Karigar', spec: 'Kaju Katli & Barfi Specialist', exp: '32 years', cls: 'ka-1', icon: '👩‍🍳' },
+  { name: 'Indu Devi', role: 'Halwa Specialist', spec: 'Gajar & Moong Halwa Expert', exp: '36 years', cls: 'ka-2', icon: '👩‍🍳' },
   { name: 'Mahesh Yadav', role: 'Ladoo Master', spec: 'Motichoor & Besan Ladoo', exp: '19 years', cls: 'ka-3', icon: '👨‍🍳' },
   { name: 'Suresh Kumar', role: 'Dry Sweets Artisan', spec: 'Anjeer Barfi & Dry Fruit Rolls', exp: '15 years', cls: 'ka-4', icon: '👨‍🍳' },
 ];

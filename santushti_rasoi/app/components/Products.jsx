@@ -6,12 +6,12 @@ import { useCart } from '../context/CartContext';
 
 const ALL_PRODUCTS = [
   {
-    id: 1, cat: 'traditional', name: 'Kesar Kaju Katli', price: 850, icon: '🥮',
+    id: 1, cat: 'traditional', name: 'Kesar Kaju Katli', price: 850, icon: '',
     rating: '★★★★★ (248)', unit: '250g', badge: 'Bestseller', bgClass: 'prod-bg-1',
     desc: 'Pure cashew paste with Kashmiri saffron, silver varq, and a whisper of cardamom. Our most beloved creation for over six decades.',
   },
   {
-    id: 2, cat: 'traditional', name: 'Motichoor Ladoo', price: 480, icon: '🟠',
+    id: 2, cat: 'traditional', name: 'Motichoor Ladoo', price: 480, icon: '',
     rating: '★★★★★ (182)', unit: '500g', bgClass: 'prod-bg-2',
     desc: 'Tiny gram flour pearls in pure ghee, shaped into perfect spheres. A festive classic.',
   },

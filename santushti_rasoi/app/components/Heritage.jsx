@@ -14,8 +14,8 @@ export default function Heritage() {
         <div className="section-label">Our Story</div>
         <h2 className="section-title light">A Legacy Born in <em>Jamshedpur</em></h2>
         <p className="heritage-text">
-          In 2014, our founders set up a modest halwai shop in the heart of Jamshedpur. What began with a single copper
-          kadhai and a handful of recipes inherited from his grandfather has grown into Jharkhand&apos;s most trusted name
+          In 2014, our founders set up a modest sweet shop in the heart of Jamshedpur. What began with a single copper
+          kadhai and a handful of recipes has grown into Jharkhand&apos;s most trusted name
           in artisan sweets.
           <br /><br />
           Every mithai we craft carries the weight of that original promise — only the finest ingredients, no shortcuts,
