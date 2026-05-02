@@ -5,10 +5,10 @@
  */
 
 import { NextResponse } from 'next/server';
-import { connectDB } from '../../lib/mongodb';
-import Order from '../../models/Order';
-import LoyaltyMember from '../../models/LoyaltyMember';
-import { verifyToken } from '../../lib/apiHelpers';
+import { connectDB } from '../../../lib/mongodb';
+import Order from '../../../models/Order';
+import LoyaltyMember from '../../../models/LoyaltyMember';
+import { verifyToken } from '../../../lib/apiHelpers';
 import dns from "node:dns/promises";
 dns.setServers(["1.1.1.1"]);
 
